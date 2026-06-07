@@ -1,0 +1,9 @@
+To-Do List Data Structure : 
+    Completed Tasks ->
+        "Code" : [Date, Deadline, Task]
+    Not-Completed Tasks ->
+        "Code" : [Priority, Date, Deadline, task name]
+    
+    Priority -> 4 (Most Important), 3, 2, 1 (Least Important)
+
+Code = {priority}{date.year}{nth of tasks}
